@@ -4,7 +4,16 @@
             "database": "burgers_DB",
             "dialect": "MySQL",
             "name": "localhost",
-            "password": "Hooligan83",
+            "password": "Password",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        },
+        {
+            "database": "burgers_DB",
+            "dialect": "MySQL",
+            "name": "localhost",
+            "password": "Password",
             "port": 3306,
             "server": "localhost",
             "username": "root"
